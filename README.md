@@ -1,2 +1,1 @@
-# Disaster-research-Web-interface
-It consists of JSON, HTML and javascript files that I created, to build a web map interface.
+Designed a web map interface for the disaster research department using Exhibit 3.0. The web interface consisted of a map and a timeline. The map located the disasters and the timeline was used as a filter to display the research data. Preview of the website is available to be viewed, the actual interface is a hidden URL and University of Delaware Disaster Research Department has access to it. 
